@@ -22,10 +22,10 @@ Basics of HTML/CSS & React/ReactNative
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/csharp-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=csharp-basics" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/csharp-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=csharp-basics" />
 </a>
 <!--
