@@ -8,7 +8,7 @@ Now, I working by Software Developer at CODELEX: [codelex.io][1], this is a good
 ### 📬 Get in touch
 
 - LinkedIn: [linkedin.com/andrejs-zavorotnijs][2]
-- Twitter: [twitter.com/zavor85][https://twitter.com/zavor85]
+- Twitter: [https://twitter.com/zavor85][3]
 
 <!--
 **zavor85/zavor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
