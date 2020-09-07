@@ -1,3 +1,5 @@
+<img src="./myimage.jpg">
+
 ### Hi there 👋
 
 Hey 👋🏻,
@@ -5,7 +7,10 @@ Hey 👋🏻,
 I am a Software Engineer from Latvia🇱🇻.  I am interested in, new technologies and computer science. 
 Now, I working by Software Developer at CODELEX: [codelex.io](https://www.codelex.io/), this is a good place, for starting my IT career, but this is just the beginning, so I will go towards my goal and achieve new heights!!!
 
-You can see what I am currently up to on natterstefan.me.
+### 📬 Get in touch
+
+LinkedIn: https://www.linkedin.com/in/andrejs-zavorotnijs-7202742a/
+Twitter: https://twitter.com/zavor85
 
 <!--
 **zavor85/zavor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
