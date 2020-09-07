@@ -23,10 +23,10 @@ Basics of HTML/CSS & React/ReactNative
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=csharp-basics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zavor85&repo=csharp-basics" />
 </a>
 <!--
 **zavor85/zavor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
