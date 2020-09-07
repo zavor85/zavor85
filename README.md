@@ -13,12 +13,12 @@ my IT career, but this is just the beginning, so I will go towards my goal and a
 - Twitter: [https://twitter.com/zavor85][4]
 
 ## - 🔭 I’m currently Software Developer at CODELEX
-C#/.NET
-Git, GitHub
-JavaScript/TypeScript
-Databases Management & SQL
-Design Patterns, Clean Code, S.O.L.I.D
-Basics of HTML/CSS & React/ReactNative
+- C#/.NET
+- Git, GitHub
+- JavaScript/TypeScript
+- Databases Management & SQL
+- Design Patterns, Clean Code, S.O.L.I.D
+- Basics of HTML/CSS & React/ReactNative
 
 
 [1]: https://www.codelex.io/
