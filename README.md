@@ -1,4 +1,4 @@
-<img src="./myimage.jpg">
+<img src="https://ibb.co/N9nCsMf">
 
 ### Hi there 👋
 
@@ -8,7 +8,8 @@ Now, I working by Software Developer at CODELEX: [codelex.io][1], this is a good
 ### 📬 Get in touch
 
 - LinkedIn: [linkedin.com/andrejs-zavorotnijs][2]
-- Twitter: [https://twitter.com/zavor85][3]
+- Facebook: [https://www.facebook.com/zavor85][3]
+- Twitter: [https://twitter.com/zavor85][4]
 
 <!--
 **zavor85/zavor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +28,6 @@ Here are some ideas to get you started:
 
 [1]: https://www.codelex.io/
 [2]: https://www.linkedin.com/in/andrejs-zavorotnijs-7202742a/
-[3]: https://twitter.com/zavor85
+[3]: https://www.facebook.com/zavor85
+[4]: https://twitter.com/zavor85
+
