@@ -1,4 +1,4 @@
-<img src="https://ibb.co/N9nCsMf">
+<img src="https://i.ibb.co/JvFtK98/Linkedin-banner.png">
 
 ### Hi there 👋
 
