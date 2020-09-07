@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 I am a Software Engineer from Latvia🇱🇻.  I am interested in, new technologies and computer science. 
-Now, I working by Software Developer at CODELEX: [codelex.io][1], this is a good place, for starting my IT career, but this is just the beginning, so I will go towards my goal and achieve new heights!!!
+Now, I working by Software Developer at CODELEX: [codelex.io][1], this is a good place, for starting 
+my IT career, but this is just the beginning, so I will go towards my goal and achieve new heights!!!
 
 ## 📬 Get in touch
 
