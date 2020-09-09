@@ -13,6 +13,7 @@ my IT career, but it is just the beginning, so I will go forward to my goals, to
 - Twitter: [https://twitter.com/zavor85][4]
 
 ## - 🔭 I’m currently Software Developer at CODELEX
+Working with:
 - C#/.NET
 - Git, GitHub
 - JavaScript/TypeScript
