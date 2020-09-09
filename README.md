@@ -8,7 +8,7 @@ my IT career, but it is just the beginning, so I will go forward to my goals, to
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/andrejs-zavorotnijs][2]
+- LinkedIn: [linkedin.com/andrejszavorotnijs][2]
 - email: andrejs.zavorotnijs@inbox.lv
 - Twitter: [https://twitter.com/zavor85][4]
 
@@ -23,7 +23,7 @@ Working with:
 
 
 [1]: https://www.codelex.io/
-[2]: https://www.linkedin.com/in/andrejs-zavorotnijs-7202742a/
+[2]: https://www.linkedin.com/in/andrejszavorotnijs/
 [3]: https://www.facebook.com/zavor85
 [4]: https://twitter.com/zavor85
 
