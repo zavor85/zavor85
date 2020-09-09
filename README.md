@@ -9,9 +9,8 @@ my IT career, but this is just the beginning, so I will go towards my goal and a
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/andrejs-zavorotnijs][2]
-- Facebook: [https://www.facebook.com/zavor85][3]
-- Twitter: [https://twitter.com/zavor85][4]
 - email: andrejs.zavorotnijs@inbox.lv
+- Twitter: [https://twitter.com/zavor85][4]
 
 ## - 🔭 I’m currently Software Developer at CODELEX
 - C#/.NET
