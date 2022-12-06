@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/XFvVpRt/Screenshot-at-Sep-08-15-02-48.png">
-
 ### Hi there 👋
 
 An aspiring Software Developer with experience in telecommunications and Electronic engineering, as well professional athlete in the past.
